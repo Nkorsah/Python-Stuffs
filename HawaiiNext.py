@@ -7,6 +7,9 @@ doubleVowel = {"ai": "eye", "ae": "eye", "ao": "ow", "au": "ow",
                }
 
 misc = {" ": " ", "'": "'"}
+
+"Testing if this works on GitHub"
+
 """
 "01234"
 "keiki -> kay-kee  X  Kay-ee-kee"
